@@ -19,7 +19,7 @@ Power BI Tools: DAX, API, Power Query
 
 3. Data Visualization: I transformed complex data into clear and insightful visual representations, making it easier for stakeholders to grasp the findings.
 
-4. Interactive Dashboard: I designed an interactive dashboard that allows users to explore the data dynamically, facilitating a deeper understanding of the sales performance.
+4. Interactive Dashboard: I designed an interactive dashboard that allows users to explore the data dynamically, facilitating a deeper understanding of the performance.
 
 Dashboard:[Downlode Here](https://github.com/pratiraut/HR-analytics/blob/main/HR%20analytics.pbit)
 
